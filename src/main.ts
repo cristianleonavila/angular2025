@@ -1,6 +1,4 @@
-import './style.css'
-//import './topics/01-basic-types';
-//import './topics/03-functions';
-import './topics/05-function-destructuring';
+import './style.css';
+import './topics/11-optional-chaining';
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
